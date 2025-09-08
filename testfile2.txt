@@ -1,1 +1,1 @@
-Sample test file 2.
+Sample test file 2. Currently we are going add some content to see the effect of gitdiff tool on two files.

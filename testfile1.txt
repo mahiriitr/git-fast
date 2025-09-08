@@ -1,1 +1,2 @@
 Sample test file 1.
+This file is amended to check the git diff command working.
